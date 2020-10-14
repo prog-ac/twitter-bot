@@ -27,16 +27,6 @@ existing project で作成したプロジェクトを選択する
 2. config.sh の中に鍵を記載していく
 
 ```
-source ./config.sh && node ./functions/test.js
-```
-
-を実行してみる。
-
-スクリプトが完成したら、
-
-config.sh の下２行の#を削除して
-
-```
 sh ./config.sh
 ```
 
